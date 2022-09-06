@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Uweghrepha Ejiro ThankGod, currently working as an Student Frontend Developer at [Alt School](https://www.altschoolafrica.com). I am a Technical Writer and also a Full-Stack JavaScript developer, I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Uweghrepha Ejiro ThankGod, currently a Student Frontend Developer at [Alt School](https://www.altschoolafrica.com). I am a Technical Writer and also a Full-Stack JavaScript developer, I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ejiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ejiro-t/)](https://www.linkedin.com/in/ejiro-t/)
 [![Medium Badge](https://img.shields.io/badge/ejiro-uweg-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ejirouweghrepha
